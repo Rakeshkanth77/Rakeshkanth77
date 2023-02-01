@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Rakesh Kanth</h1>
-<p align="left">Data Scientist with 3+ years of experience and have comprehensive industry knowledge in performing Data Extraction,  Visualisation/Dashborads , Statistical Modelling of structured and unstructured datasets as well as
-implementing large-scale Machine Learning and Deep Learning Algorithms to deliver resourceful solutions solving real-world practical
-business problems.</p>
+<p align="left">Hi! I'm  Rakesh Kanth, a data scientist with over 3 years of experience in Data sciecne. My expertise in Python, Machine learning, Deep learning, Natural Language processing has helped me solve complex business problems and drive meaningful insights. I am a creative problem-solver with a passion for turning data into actionable solutions.
+
+I am now seeking new opportunities to continue growing my career as a data scientist. I am looking for a company that values innovation, collaboration, and continuous learning. If you're interested in my skills and experience, I'd love to chat. Please feel free to reach out via email, LinkedIn.
+
+Thank you for visiting my profile!</p>
 
 
 
@@ -27,4 +29,4 @@ Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical F
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Python programming**
 
-- 📫 How to reach me **rakeshleonel@gmail.com**
+- 📫 How to reach me **rakeshkanth77@gmail.com**
