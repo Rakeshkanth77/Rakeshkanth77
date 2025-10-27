@@ -14,9 +14,9 @@ Thank you for visiting my profile!</p>
 <h3 align="left">Languages and Tools:</h3>
 <p>Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
 
-Languages: Python, SQL, HTML, CSS, JavaScript, R.
+Languages: Python, SQL,JavaScript, R.
 
-Framework: Flask, Django, React, Bootstrap.
+Framework: Flask, Django,  Bootstrap.
 
 Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK.
 
