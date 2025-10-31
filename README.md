@@ -1,26 +1,4 @@
-<h1 align="left">Hi 👋, I'm Rakesh Kanth</h1>
-<p align="left">Hi! I'm  Rakesh Kanth, a data scientist with over 3 years of experience in Data sciecne. My expertise in Python, Machine learning, Deep learning, Natural Language processing has helped me solve complex business problems and drive meaningful insights. I am a creative problem-solver with a passion for turning data into actionable solutions.
-
-I am now seeking new opportunities to continue growing my career as a data scientist. I am looking for a company that values innovation, collaboration, and continuous learning. If you're interested in my skills and experience, I'd love to chat. Please feel free to reach out via email, LinkedIn.
-
-Thank you for visiting my profile!</p>
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p>Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
-
-Languages: Python, SQL,JavaScript, R.
-
-Framework: Flask, Django,  Bootstrap.
-
-Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, PyTorch, Keras, NLTK.
-
-Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.</p>
+<h1 align="left">Hi 👋, I'm Rakesh Kanth</h1> <p align="left">I'm a Data Scientist with 3+ years of experience leveraging Machine Learning, Deep Learning, and NLP to deliver data-driven insights and solutions. Skilled in Python, SQL, and modern AI frameworks, I’m passionate about transforming complex data into impactful business outcomes. Currently seeking new opportunities in innovative, collaborative environments. Feel free to connect via email or LinkedIn!</p> <h3 align="left">Languages & Tools</h3> <p><b>Domains:</b> NLP, Image Processing, Machine Learning, Deep Learning, Data Science, Visualization, Warehousing <br><b>Languages:</b> Python, SQL, R, JavaScript <br><b>Frameworks:</b> Flask, Django, Bootstrap <br><b>Libraries & Tools:</b> NumPy, Pandas, Scikit-learn, PyTorch, Keras, NLTK, AWS (EC2, S3, Lambda) <br><b>Expertise:</b> EDA, Model Development, Statistical Analysis, Ensemble Methods, Evaluation Metrics, Google Analytics</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
